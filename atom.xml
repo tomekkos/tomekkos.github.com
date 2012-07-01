@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://tomekkos.github.com/atom.xml" rel="self"/>
+  <link href="http://tomekkos.github.com/"/>
+  <updated>2012-07-01T20:47:23+02:00</updated>
+  <id>http://tomekkos.github.com/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello octopress]]></title>
+    <link href="http://tomekkos.github.com/posts/2012-07-01-hello-octopress/"/>
+    <updated>2012-07-01T20:42:00+02:00</updated>
+    <id>http://tomekkos.github.com/posts/hello-octopress</id>
+    <content type="html"><![CDATA[<p>Fist octopress post</p>
+]]></content>
+  </entry>
+  
+</feed>
